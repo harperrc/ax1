@@ -1,0 +1,2 @@
+#
+gfortran -std=legacy -Wall -C -g -o ax1.e ax1.for
